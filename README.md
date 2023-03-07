@@ -13,4 +13,4 @@
 
 #### 🖼️ [Portfolio](https://andrewrichardson.info/)
 
-[//]: # (Secret comment is secret)
+[//]: # (Secret comment)
