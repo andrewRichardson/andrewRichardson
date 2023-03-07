@@ -12,3 +12,5 @@
 #### 💬 [LinkedIn](https://www.linkedin.com/in/andrew-roland-richardson/)
 
 #### 🖼️ [Portfolio](https://andrewrichardson.info/)
+
+[//]: # (Secret comment)
