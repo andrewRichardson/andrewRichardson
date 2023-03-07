@@ -2,7 +2,7 @@
 
 <br/>
 
-#### 🖥️ Frontend Software Engineer
+#### 🖥️ Senior Software Engineer
 #### ⚡React, Javascript, Typescript, NodeJS⚡
 
 <br/>
