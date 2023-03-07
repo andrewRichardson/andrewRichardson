@@ -11,4 +11,4 @@
 
 #### 💬 [LinkedIn](https://www.linkedin.com/in/andrew-roland-richardson/)
 
-#### 🖼️ [Portfolio](https://andrewrichardson.info)
+#### 🖼️ [Portfolio](https://andrewrichardson.info/)
