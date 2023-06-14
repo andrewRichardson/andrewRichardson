@@ -2,7 +2,7 @@
 
 <br/>
 
-#### 🖥️ Senior Software Engineer
+#### 🖥️ Lead Senior Software Engineer
 #### ⚡React, Javascript, Typescript, NodeJS⚡
 
 <br/>
