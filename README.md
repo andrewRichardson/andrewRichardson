@@ -5,11 +5,12 @@ My name is Andrew Richardson, I am currently a Lead Software Engineer at [Asurio
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=fff)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=FF9900)
+<br/>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=FF9900)
 
 
 ## 📞 Contact me & Learn more
