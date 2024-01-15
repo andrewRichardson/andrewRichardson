@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px"> Hey there!
+## <img src="https://raw.githubusercontent.com/andrewRichardson/andrewRichardson/master/wave.gif" width="30px"> Hey there!
 
 My name is Andrew Richardson, I am currently a Lead Software Engineer at [Asurion](https://www.asurion.com).
 
