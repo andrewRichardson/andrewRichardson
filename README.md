@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/andrewRichardson/andrewRichardson/master/wave.gif" width="30px"> Hey there!
 
-My name is Andrew Richardson, I am currently a Lead Software Engineer at [Asurion](https://www.asurion.com).
+My name is Andrew Richardson, I am currently a Staff Software Engineer and Tech Lead at [Asurion](https://www.asurion.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=fff)
