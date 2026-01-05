@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/andrewRichardson/andrewRichardson/master/wave.gif" width="30px"> Hey there!
 
-My name is Andrew Richardson, I am currently a Senior Software Engineer and Tech Lead at [Atlassian](https://www.atlassian.com).
+My name is Andrew Richardson, I am currently a Senior Software Engineer at [Atlassian](https://www.atlassian.com).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=fff)
