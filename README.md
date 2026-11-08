@@ -14,6 +14,6 @@ My name is Andrew Richardson, I am currently a Senior Software Engineer at [Atla
 
 
 ## 📞 Contact me & Learn more
-#### <img src="https://icon-library.com/images/green-email-icon/green-email-icon-8.jpg" width="16px" alt="Email" /> [Email](mailto:andyandy698@gmail.com) &nbsp;&nbsp;-&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="16px" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/andrew-roland-richardson/) &nbsp;&nbsp;-&nbsp;&nbsp; <img src="https://github.com/andrewRichardson/andrew-richardson-portfolio/blob/main/src/assets/images/ar_inverse.png" width="16px" alt="Portfolio" /> [Portfolio](https://andrewrichardson.info/)
+#### [Email](mailto:andyandy698@gmail.com) &nbsp;&nbsp;-&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/andrew-roland-richardson/) &nbsp;&nbsp;-&nbsp;&nbsp; [Portfolio](https://andrewrichardson.info/)
 
 [//]: # (Secret comment is secret)
